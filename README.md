@@ -1,6 +1,6 @@
-# botstack
+# buttstack
 
-![botstack-logo](https://cloud.githubusercontent.com/assets/1736570/18914167/33193656-858c-11e6-9151-b383bd1c821c.png)
+![botstack grafik-x](app/assets/images/buttstack.png)
 
 This is a base project for creating FB Chatbots. It has a state machine and User Management and allows you to add functionality with modules.
 
